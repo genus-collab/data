@@ -1,0 +1,3 @@
+# Release assets of solutions/resolved-conifold-cy-torus/v1 (check with: sha256sum -c SHA256SUMS, in the download folder)
+d5c1459298e317dcb7668506165c9eb92a1a3f8bbe544277babe48fad8b3162b *hvc_terms_g4_Bm.tar.gz
+7a64a5a2c883ebc0b4ffc55694e58cbfdf828f9c1ba1bd371629d79dc40c2afc *engine_h5_r7.txt.gz

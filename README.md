@@ -9,7 +9,7 @@ was computed) and a `SHA256SUMS` list.
 
 | Project | Folder | Release |
 |---|---|---|
-| *(none yet)* | | |
+| solutions/resolved-conifold-cy-torus | [`projects/solutions/resolved-conifold-cy-torus`](projects/solutions/resolved-conifold-cy-torus/) | [`solutions/resolved-conifold-cy-torus/v1`](https://github.com/genus-collab/data/releases/tag/solutions/resolved-conifold-cy-torus/v1) |
 
 ## Layout
 
