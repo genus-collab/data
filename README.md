@@ -11,6 +11,7 @@ was computed) and a `SHA256SUMS` list.
 |---|---|---|
 | solutions/resolved-conifold-cy-torus | [`projects/solutions/resolved-conifold-cy-torus`](projects/solutions/resolved-conifold-cy-torus/) | [`solutions/resolved-conifold-cy-torus/v1`](https://github.com/genus-collab/data/releases/tag/solutions/resolved-conifold-cy-torus/v1) |
 | solutions/refined-gap-local-p2 | [`projects/solutions/refined-gap-local-p2`](projects/solutions/refined-gap-local-p2/) | [`solutions/refined-gap-local-p2/v1`](https://github.com/genus-collab/data/releases/tag/solutions/refined-gap-local-p2/v1) |
+| solutions/conifold-gap-formal-quintic | [`projects/solutions/conifold-gap-formal-quintic`](projects/solutions/conifold-gap-formal-quintic/) | [`solutions/conifold-gap-formal-quintic/v1`](https://github.com/genus-collab/data/releases/tag/solutions/conifold-gap-formal-quintic/v1) |
 
 ## Layout
 
