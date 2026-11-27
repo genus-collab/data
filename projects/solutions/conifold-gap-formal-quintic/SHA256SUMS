@@ -1,0 +1,3 @@
+# Release assets of solutions/conifold-gap-formal-quintic/v1 (check with: sha256sum -c SHA256SUMS, in the download folder)
+727d6f96fa58852e31320908d563434a2c93ede1e7cab11b2c19930a894f4e29 *parts_g5_89_nat_local.json.gz
+9448e1a0afac1938493dfc5cdc6926c3e2f723efbbde7bdaacb0f870bb00fb09 *g5_evidence.tar.gz
