@@ -1,0 +1,4 @@
+# Release assets of solutions/refined-gap-local-p2/v1 (check with: sha256sum -c SHA256SUMS, in the download folder)
+51a0188c59d3720f62c89897a4a1e7c7538f44c35082980e621204664d8de1d7 *hv_terms_g4.tar.gz
+cd540ef29003676fbb9f0eebcfa1ac53d1baed2192bd22b72ed58976c06b0a7c *hodge_graphterms_genus4.m.gz
+d296b062f10492eb22614ac8536161bff687a1960aa9a5b2dee1e56d53885039 *StableGraph-7.bin.gz
